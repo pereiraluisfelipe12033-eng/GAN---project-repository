@@ -48,7 +48,7 @@ The primary output of this project is a comprehensive survey document synthesizi
 
 
 
-> 🎥 \*\*Proposal presentation slides:\*\* `<[Presentation slides](../presentations/controlling_hallucinations_15_pages.pptx)>`
+> 🎥 \*\*Proposal presentation slides:\*\* `<[Presentation slides](./presentations/controlling_hallucinations_15_pages.pptx)>`
 
 
 
