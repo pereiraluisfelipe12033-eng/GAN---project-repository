@@ -1,4 +1,4 @@
-> 🎥 \*\*Proposal presentation slides:\*\* <[Presentation slides](./presentations/controlling_hallucinations_15_pages.pptx)>
+> 🎥 \*\*Proposal presentation slides:\*\* <[Presentation slides](./presentations/controlling_hallucinations.pptx)>
 
 \# Hallucination Control in LLMs: A State-of-the-Art Bibliographic Survey
 
