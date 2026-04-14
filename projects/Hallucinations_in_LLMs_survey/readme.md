@@ -20,11 +20,11 @@ offered in the first semester of 2026, at Unicamp, under the supervision of Prof
 
 |--|--|--|
 
-| Charles Cavalcante Alcarde | `<RA>` | `<Specialization>` |
+| Charles Cavalcante Alcarde | `<RA>` | `<Electrical Engineering>` |
 
-| Pedro Henrique Guerra | `<RA>` | `<Specialization>` |
+| Pedro Henrique Guerra | `<RA>` | `<Electrical Engineering>` |
 
-| Luís Felipe da Silva Carlos Pereira | `<RA>` | `<Specialization>` |
+| Luís Felipe da Silva Carlos Pereira | `<RA>` | `<Electrical Engineering>` |
 
 
 
