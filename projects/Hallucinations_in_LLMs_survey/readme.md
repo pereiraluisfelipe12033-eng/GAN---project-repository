@@ -18,11 +18,11 @@ offered in the first semester of 2026, at Unicamp, under the supervision of Prof
 
 |--|--|--|
 
-| Charles Cavalcante Alcarde | `<RA>` | `<Specialization>` |
+| Charles Cavalcante Alcarde | `<800181>` | `<Graduate Student>` |
 
-| Pedro Henrique Guerra | `<RA>` | `<Specialization>` |
+| Pedro Henrique Guerra | `<298988>` | `<Graduate Student>` |
 
-| Luís Felipe da Silva Carlos Pereira | `<RA>` | `<Specialization>` |
+| Luís Felipe da Silva Carlos Pereira | `<272919>` | `<Graduate Student>` |
 
 
 
