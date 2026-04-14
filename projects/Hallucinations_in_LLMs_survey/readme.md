@@ -1,6 +1,4 @@
-\# Controle de Alucinações em LLMs: Estudo Bibliográfico do Estado da Arte
-
-
+> 🎥 \*\*Proposal presentation slides:\*\* <[Presentation slides](./presentations/controlling_hallucinations_15_pages.pptx)>
 
 \# Hallucination Control in LLMs: A State-of-the-Art Bibliographic Survey
 
@@ -46,9 +44,6 @@ A key distinction guiding this work is the separation between \*hallucination\* 
 
 The primary output of this project is a comprehensive survey document synthesizing findings from over 300 identified mitigation studies. Depending on the group's progress, the survey may be extended with an experimental component evaluating one or more mitigation strategies on a controlled benchmark (such as HaluEval 2.0 or HalluLens), using open-source LLMs.
 
-
-
-> 🎥 \*\*Proposal presentation slides:\*\* <[Presentation slides](./presentations/controlling_hallucinations_15_pages.pptx)>
 
 
 
